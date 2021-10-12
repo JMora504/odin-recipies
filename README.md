@@ -1,0 +1,1 @@
+Hello! My name is Nick this is my second day going through the Odin Project ffoundations course. This is for Recepies.  I'm not sure what to expect but i'm excited.
